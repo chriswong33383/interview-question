@@ -66,3 +66,8 @@ Address:
 - Guardrails
 
 | No need to implement — design explanation only.
+
+---
+
+Deadline: 4 March 2026 12:00:00 noon HKT
+Please submit to chriswong@ifastfinancial.com.
